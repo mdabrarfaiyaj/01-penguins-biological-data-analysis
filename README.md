@@ -1,8 +1,8 @@
 # Biological Data Analysis: Palmer Penguins Morphometric Study
 
-<p align="center">
-  <img src="figures/01_species_comparison_scatter.png" alt="Penguin Species Comparison" width="700"/>
-</p>
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![R](https://img.shields.io/badge/R-4.0+-blue.svg)](https://www.r-project.org/)
+[![Analysis Date](https://img.shields.io/badge/Analysis-December%202025-green.svg)](https://github.com)
 
 ---
 
