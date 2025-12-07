@@ -393,7 +393,7 @@ Potential extensions of this analysis:
 
 **Author:** Md. Abrar Faiyaj  
 **Email:** faiyaj.mdabrar@gmail.com  
-**LinkedIn:** [linkedin.com/in/your-profile](https://www.linkedin.com/in/md-abrar-faiyaj-559246381/)  
+**LinkedIn:** [linkedin.com/in/Md. Abrar Faiyaj](https://www.linkedin.com/in/md-abrar-faiyaj-559246381/)  
 **GitHub:** [github.com/mdabrarfaiyaj](https://github.com/mdabrarfaiyaj)
 
 **Collaboration:** Open to feedback, suggestions, and research opportunities in computational biology and bioinformatics.
