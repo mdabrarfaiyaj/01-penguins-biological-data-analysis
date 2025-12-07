@@ -1,0 +1,39 @@
+=== STATISTICAL ANALYSIS RESULTS ===
+
+
+ANOVA: Body Mass by Species
+
+# A tibble: 2 × 6
+  term         df      sumsq    meansq statistic   p.value
+  <chr>     <dbl>      <dbl>     <dbl>     <dbl>     <dbl>
+1 species       2 145190219. 72595110.      342.  3.74e-81
+2 Residuals   330  70069447.   212332.       NA  NA       
+
+
+Post-hoc Tukey HSD:
+
+  Tukey multiple comparisons of means
+    95% family-wise confidence level
+
+Fit: aov(formula = body_mass_g ~ species, data = penguins_clean)
+
+$species
+                       diff       lwr       upr    p adj
+Chinstrap-Adelie   26.92385 -132.3528  186.2005 0.916431
+Gentoo-Adelie    1386.27259 1252.2897 1520.2554 0.000000
+Gentoo-Chinstrap 1359.34874 1194.4304 1524.2671 0.000000
+
+
+
+Correlation Matrix:
+
+                  bill_length_mm bill_depth_mm flipper_length_mm
+bill_length_mm              1.00         -0.23              0.65
+bill_depth_mm              -0.23          1.00             -0.58
+flipper_length_mm           0.65         -0.58              1.00
+body_mass_g                 0.59         -0.47              0.87
+                  body_mass_g
+bill_length_mm           0.59
+bill_depth_mm           -0.47
+flipper_length_mm        0.87
+body_mass_g              1.00

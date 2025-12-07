@@ -1,0 +1,4 @@
+species,n,mean_body_mass,sd_body_mass,mean_flipper_length,sd_flipper_length,mean_bill_length,sd_bill_length,mean_bill_depth,sd_bill_depth
+Adelie,146,3706.2,458.6,190.1,6.5,38.8,2.7,18.3,1.2
+Chinstrap,68,3733.1,384.3,195.8,7.1,48.8,3.3,18.4,1.1
+Gentoo,119,5092.4,501.5,217.2,6.6,47.6,3.1,15,1
