@@ -393,8 +393,8 @@ Potential extensions of this analysis:
 
 **Author:** Md. Abrar Faiyaj  
 **Email:** faiyaj.mdabrar@gmail.com  
-**LinkedIn:** [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)  
-**GitHub:** [github.com/YOUR-USERNAME](https://github.com/YOUR-USERNAME)
+**LinkedIn:** [linkedin.com/in/your-profile](https://www.linkedin.com/in/md-abrar-faiyaj-559246381/)  
+**GitHub:** [github.com/YOUR-USERNAME](https://github.com/mdabrarfaiyaj)
 
 **Collaboration:** Open to feedback, suggestions, and research opportunities in computational biology and bioinformatics.
 
@@ -417,22 +417,6 @@ This project is licensed under the **MIT License** - see the LICENSE file for de
 
 ---
 
-## 🔄 Portfolio Series
-
-**Project 1 of 10** in my computational biology portfolio demonstrating progressively advanced analytical skills:
-
-1. ✅ **Palmer Penguins Morphometrics** - Statistical analysis, data visualization
-2. 🔜 **RNA-seq Differential Expression** - DESeq2, pathway analysis, volcano plots
-3. 🔜 **Protein Structure Prediction** - AlphaFold, structural bioinformatics
-4. 🔜 **Genomic Variant Calling** - GATK pipeline, VCF analysis, population genetics
-5. 🔜 **Single-Cell RNA-seq** - Seurat, cell type annotation, trajectory analysis
-6. 🔜 **Phylogenetic Analysis** - Multiple sequence alignment, tree inference
-7. 🔜 **Metabolomics** - Peak detection, pathway enrichment, network analysis
-8. 🔜 **ChIP-seq Peak Calling** - MACS2, motif discovery, regulatory analysis
-9. 🔜 **Microbiome Analysis** - 16S rRNA, diversity metrics, differential abundance
-10. 🔜 **Multi-omics Integration** - Network analysis, systems biology approaches
-
----
 
 ⭐ **If you find this analysis useful, please consider starring this repository!**
 
