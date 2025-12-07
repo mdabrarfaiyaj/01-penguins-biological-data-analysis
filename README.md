@@ -233,7 +233,7 @@ install.packages(c("tidyverse", "palmerpenguins", "corrplot", "broom"))
 **Option 1: RStudio (Recommended)**
 ```bash
 # Clone repository
-git clone https://github.com/YOUR-USERNAME/01-penguins-biological-data-analysis
+git clone https://github.com/mdabrarfaiyaj/01-penguins-biological-data-analysis
 cd 01-penguins-biological-data-analysis
 
 # Open in RStudio, then run:
